@@ -1,0 +1,26 @@
+Q1._ Dewcribe the mai dijjere cew betwee  the CSS FtexbZx tayZut mZdet a d the CSS Grid tayZut mZdet. "he
+wZutd yZu chZZwe tZ uwe Z e Zver the Zther?
+
+
+Ans-1  Grid:CSS Grid Layout, is a two-dimensional grid-based layout system with rows and columns,
+       making it easier to design web pages without having to use floats and positioning. Like tables,
+       grid layout allow us to align elements into columns and rows.
+       To get started you have to define a container element as a grid with display: 
+       grid, set the column and row sizes with grid-template-columns and grid-template-rows,
+       and then place its child elements into the grid with grid-column and grid-row.
+
+       Flexbox: The CSS Flexbox offers a one-dimensional layout. It is helpful in allocating and aligning the space among items in a container (made of grids). 
+       It works with all kinds of display devices and screen sizes.To get started you have to define a container element as a grid with display: flex;
+
+       Choosing betwee Flexbox And CSS Grid depends on your specific requirments.
+       
+      You might choose Flexbox when you need to arrange items along a single axis.for example,when creating 
+      navigation bars,header/footer layouts ,or aligning elements within a container . Flexboxis great for reposnsive
+      designs where items can vary in size.
+
+      You might choose CSS Grid when you need to creat more complex, two- dimensional layoutwith rpws and 
+      colomns.It's particularly useful when you have a grid-like structure,such as galleries,Forms with multiple fields,
+      or any design that requires precise control over both rows and colomns.
+
+      In some cass ,you may even combine both  Flexboxand CSS Grid within a single layoutto leverage the 
+      strengths of each model for different parts of your webpage.
